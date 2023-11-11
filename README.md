@@ -1,6 +1,9 @@
 # ruby_qr_code_png
 QR Code generator using Ruby and rqrcode_png gem
 
+# Usage
+ ruby qrcode.rb "data goes here"
+
 # Versions
 ruby v3.0.2p107
 gem v3.3.5
